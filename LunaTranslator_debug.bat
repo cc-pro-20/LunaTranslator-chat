@@ -1,0 +1,2 @@
+.\LunaTranslator.exe
+pause

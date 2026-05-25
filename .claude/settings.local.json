@@ -1,0 +1,10 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(python3 -c \"import json; json.load\\(open\\('D:/code/LunaTranslator_x64_win10/LunaTranslator/defaultconfig/config.json', 'r', encoding='utf-8'\\)\\)\")",
+      "Bash(python *)",
+      "Bash(python3 -c \"import zipfile; z=zipfile.ZipFile\\('D:/code/LunaTranslator_x64_win10/files/runtime3.13-64/pylibs.zip'\\); names=[n for n in z.namelist\\(\\) if 'myutils' in n.lower\\(\\) or 'translator' in n.lower\\(\\) or 'luna' in n.lower\\(\\)]; print\\('\\\\n'.join\\(names[:20]\\)\\)\")",
+      "Bash(git *)"
+    ]
+  }
+}

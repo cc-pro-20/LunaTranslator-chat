@@ -1,0 +1,579 @@
+[
+    {
+        "series": "SakuraLLM",
+        "lang": "ja->zh",
+        "repos": [
+            {
+                "repo": "GalTransl-v4-4B-2601",
+                "models": [
+                    {
+                        "file": "Galtransl-v4-4B-2601-Q5_K_S.gguf",
+                        "size": 2823707232,
+                        "timestamp": "2026-02-02T09:25:41",
+                        "sha256": "210cd08981a6e0c8b59b572407fe5324933808994fa356a873a7d1a04216841f"
+                    },
+                    {
+                        "file": "Galtransl-v4-4B-2601.gguf",
+                        "size": 3306256992,
+                        "timestamp": "2026-01-28T07:34:39",
+                        "sha256": "02d93f5844161b6301d3d5b822b0abc30d9587ab48d18132bc1cbbabf44a8d4f"
+                    }
+                ]
+            },
+            {
+                "repo": "Sakura-14B-Qwen3-v1.5-GGUF",
+                "models": [
+                    {
+                        "file": "sakura-14b-qwen3-v1.5-iq4xs.gguf",
+                        "size": 8180361440,
+                        "timestamp": "2026-01-12T00:49:48",
+                        "sha256": "9ec2f6668dc0e78a9c12052d0399dfb368db4fad52575a385a2c58f91771829e"
+                    },
+                    {
+                        "file": "sakura-14b-qwen3-v1.5-q6k.gguf",
+                        "size": 12121937120,
+                        "timestamp": "2026-01-12T00:52:20",
+                        "sha256": "3bcc48f1c3700ff86023f880841de24ffc58bec4aae23ca6dddbfe33c799550d"
+                    }
+                ]
+            },
+            {
+                "repo": "Sakura-GalTransl-14B-v3.8",
+                "models": [
+                    {
+                        "file": "Sakura-Galtransl-14B-v3-IQ4_XS.gguf",
+                        "size": 8119840256,
+                        "timestamp": "2025-06-03T00:53:47",
+                        "sha256": "d29a2fc689bba9e0844c72df71cc9f76e803caf47153d088de25429c0669f270"
+                    },
+                    {
+                        "file": "Sakura-Galtransl-14B-v3-Q5_K_S.gguf",
+                        "size": 10266553632,
+                        "timestamp": "2025-04-29T09:22:14",
+                        "sha256": "2401f92a7cea2222ff765cedf1d083beaef68000b4cbd73f1d2afafe230464c9"
+                    },
+                    {
+                        "file": "Sakura-Galtransl-14B-v3.7-IQ4_XS.gguf",
+                        "size": 8186193216,
+                        "timestamp": "2025-07-04T04:13:19",
+                        "sha256": "da6795ee162d1d1229aa43953b23ab1d9b882efea5c23fc392e39ff821c636d0"
+                    },
+                    {
+                        "file": "Sakura-Galtransl-14B-v3.7-Q5_K_S.gguf",
+                        "size": 10266551616,
+                        "timestamp": "2025-07-04T02:24:57",
+                        "sha256": "daa3a846c0ecc29cf2eec8efae18318c3700d10584e3ee6752da5274f16de039"
+                    },
+                    {
+                        "file": "Sakura-Galtransl-14B-v3.8-IQ4_XS.gguf",
+                        "size": 8186193216,
+                        "timestamp": "2025-09-09T00:21:12",
+                        "sha256": "db968b3218d904dc8969620fc305f176892120597a8828e434b587912301c01e"
+                    },
+                    {
+                        "file": "Sakura-Galtransl-14B-v3.8-Q4_K_M.gguf",
+                        "size": 8988108096,
+                        "timestamp": "2025-09-08T15:54:23",
+                        "sha256": "cc14fdc3bcfbf4aeb242539939a99ed11274767cb51aa28c52645635b2ce80a3"
+                    },
+                    {
+                        "file": "Sakura-Galtransl-14B-v3.8-Q5_K_S.gguf",
+                        "size": 10266551616,
+                        "timestamp": "2025-09-08T15:54:23",
+                        "sha256": "70def8bd0a5b7c121503ce565a08a3af07c39caea556d68499f10c18b3263bfb"
+                    },
+                    {
+                        "file": "Sakura-Galtransl-14B-v3.8.gguf",
+                        "size": 12124681536,
+                        "timestamp": "2025-09-08T03:47:54",
+                        "sha256": "4e7c7549d200002ce9d5c05a25878d76b73ac154fdda7a9fc232134e86c3e067"
+                    }
+                ]
+            },
+            {
+                "repo": "Sakura-GalTransl-7B-v3.7",
+                "models": [
+                    {
+                        "file": "GalTransl-7B-v1-Q6_K.gguf",
+                        "size": 6341946720,
+                        "timestamp": "2024-05-30T16:17:05",
+                        "sha256": "3d69abfa5a270c792089cda80241da0567f44592a21d39311843ef841f21d2c9"
+                    },
+                    {
+                        "file": "GalTransl-7B-v1.5-Q6_K.gguf",
+                        "size": 6341946720,
+                        "timestamp": "2024-06-30T04:42:30",
+                        "sha256": "38a606a5b35f41cddf41e4aed5c65d45f4c38882e5a4877c895178952acbd02d"
+                    },
+                    {
+                        "file": "GalTransl-7B-v2-Q6_K.gguf",
+                        "size": 6341946880,
+                        "timestamp": "2024-09-03T08:09:26",
+                        "sha256": "52bcc41195bbf6c0a9f4bb8dee21a2909068f1eec348b1f3fe6e09fa43c00037"
+                    },
+                    {
+                        "file": "GalTransl-7B-v2.6-Q6_K.gguf",
+                        "size": 6341946880,
+                        "timestamp": "2024-10-04T00:30:30",
+                        "sha256": "bd81f2b36afd512d581ca516967cfd169f9766fd5228aad44e89d2d64f6b643e"
+                    },
+                    {
+                        "file": "Sakura-GalTransl-7B-v3-Q5_K_S.gguf",
+                        "size": 5315174176,
+                        "timestamp": "2025-03-22T04:43:56",
+                        "sha256": "9b26ff2172a4f07d6dc35f769f3cc690ed72b28a03faee1a70d9b773f49d0d6b"
+                    },
+                    {
+                        "file": "Sakura-GalTransl-7B-v3.5-Q5_K_S.gguf",
+                        "size": 5315174272,
+                        "timestamp": "2025-05-30T11:12:43",
+                        "sha256": "4a54ad9fb4b202c9dbccd928ec0447215c8398c62b5f6fd9855e0ab3a862dc9d"
+                    },
+                    {
+                        "file": "Sakura-Galtransl-7B-v3.7-IQ4_XS.gguf",
+                        "size": 4250296192,
+                        "timestamp": "2025-08-15T00:44:35",
+                        "sha256": "81660b7adc4a6d18b5481a53371dfda8b0365766cde4b0a0907ddd3c890d823f"
+                    },
+                    {
+                        "file": "Sakura-Galtransl-7B-v3.7.gguf",
+                        "size": 6254196608,
+                        "timestamp": "2025-08-15T00:13:00",
+                        "sha256": "9128e17e1bfa558cc1e8926c49fa106bfb98b44a47e103ba5ff91d09665fb6b4"
+                    }
+                ]
+            },
+            {
+                "repo": "Sakura-7B-Qwen2.5-v1.0-GGUF",
+                "models": [
+                    {
+                        "file": "sakura-7b-qwen2.5-v1.0-iq4xs.gguf",
+                        "size": 4250298208,
+                        "timestamp": "2024-11-24T08:15:43",
+                        "sha256": "636ef6409d3f60ab5224eadb0964e3903367c0a5468c9efab3694642d22a6a4e"
+                    },
+                    {
+                        "file": "sakura-7b-qwen2.5-v1.0-q6k.gguf",
+                        "size": 6254198624,
+                        "timestamp": "2024-11-24T09:40:57",
+                        "sha256": "cfee39875e9762db8f2733a891ef0050b736b28f3ba185bfdfdde022552a1701"
+                    }
+                ]
+            },
+            {
+                "repo": "Sakura-32B-Qwen2beta-v0.10pre1-GGUF",
+                "models": [
+                    {
+                        "file": "sakura-32b-qwen2beta-v0.10pre1-iq4xs.gguf",
+                        "size": 17734766336,
+                        "timestamp": "2024-05-14T19:47:13",
+                        "sha256": "b8a4ade111e72a8041265541e985ef54ecb004038709284581aa5faceb7be951"
+                    },
+                    {
+                        "file": "sakura-32b-qwen2beta-v0.10pre1-q2k.gguf",
+                        "size": 12222000896,
+                        "timestamp": "2024-05-14T19:47:13",
+                        "sha256": "1f014793c33680bcf7bffe9901b7eae380765b05bac4b46ba56bf2689277cb00"
+                    },
+                    {
+                        "file": "sakura-32b-qwen2beta-v0.10pre1-q3km.gguf",
+                        "size": 15815114496,
+                        "timestamp": "2024-05-14T19:47:13",
+                        "sha256": "1bea3fcc65d526a467bc36103578200be5bb8537671d70e4be13f479c14905d1"
+                    },
+                    {
+                        "file": "sakura-32b-qwen2beta-v0.10pre1-q4km.gguf",
+                        "size": 19698962176,
+                        "timestamp": "2024-05-14T19:47:13",
+                        "sha256": "f7f9060b277418053e9e6ed4b79bd2c5a5b062c384f9081a5949a23a40eed2d2"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "series": "Shisa.AI",
+        "account": "shisa-ai",
+        "lang": "ja<->en",
+        "repos": [
+            {
+                "account": "mradermacher",
+                "repo": "shisa-v2.1-qwen3-8b-i1-GGUF",
+                "models": [
+                    {
+                        "file": "shisa-v2.1-qwen3-8b.i1-IQ1_M.gguf",
+                        "size": 2256148768,
+                        "timestamp": "2025-12-09T18:34:44",
+                        "sha256": "a17c1c34a668eb362d432716d4703aa28c271ede0f760a707d9a99b6a717abbd"
+                    },
+                    {
+                        "file": "shisa-v2.1-qwen3-8b.i1-IQ1_S.gguf",
+                        "size": 2115770656,
+                        "timestamp": "2025-12-09T18:48:18",
+                        "sha256": "f8bc5f8913db48e91d818a4896048db43563543697013d4025638d7e976c490c"
+                    },
+                    {
+                        "file": "shisa-v2.1-qwen3-8b.i1-IQ2_M.gguf",
+                        "size": 3051915552,
+                        "timestamp": "2025-12-09T18:29:16",
+                        "sha256": "4f763fa0bec878011bdf6500e5c1d3bf7c7022e7193dedaee47c904061af2c61"
+                    },
+                    {
+                        "file": "shisa-v2.1-qwen3-8b.i1-IQ2_S.gguf",
+                        "size": 2864744736,
+                        "timestamp": "2025-12-09T18:46:17",
+                        "sha256": "baab78faa767617d22fbbd875d137130fdb2cb4c68c040b7fa4565643ec27bfd"
+                    },
+                    {
+                        "file": "shisa-v2.1-qwen3-8b.i1-IQ2_XS.gguf",
+                        "size": 2696157472,
+                        "timestamp": "2025-12-09T18:41:52",
+                        "sha256": "e5c36005820513ce62ba95bac70b5df0ea757a059140ea018a360814bc60c3e8"
+                    },
+                    {
+                        "file": "shisa-v2.1-qwen3-8b.i1-IQ2_XXS.gguf",
+                        "size": 2490112288,
+                        "timestamp": "2025-12-09T18:37:32",
+                        "sha256": "969f01effeaebbbde22261f9bd6973e0f26a271667bf928339fd32aa96974d60"
+                    },
+                    {
+                        "file": "shisa-v2.1-qwen3-8b.i1-IQ3_M.gguf",
+                        "size": 3896621344,
+                        "timestamp": "2025-12-09T18:22:10",
+                        "sha256": "0c29cf5bb85232e87032edd930c173c2a5312100e05f3101b6dadab263639dd3"
+                    },
+                    {
+                        "file": "shisa-v2.1-qwen3-8b.i1-IQ3_S.gguf",
+                        "size": 3789666592,
+                        "timestamp": "2025-12-09T18:53:34",
+                        "sha256": "86beb82f100f13b3e8eb25cfd7eb14bd8d5582dc347d5632a0ee99336291f5a8"
+                    },
+                    {
+                        "file": "shisa-v2.1-qwen3-8b.i1-IQ3_XS.gguf",
+                        "size": 3626875168,
+                        "timestamp": "2025-12-09T18:51:01",
+                        "sha256": "452bdf819d79cd0ffcec1e8bb8449fbbb9222bfaf8e306b3b85134f5e4a64c6a"
+                    },
+                    {
+                        "file": "shisa-v2.1-qwen3-8b.i1-IQ3_XXS.gguf",
+                        "size": 3369634080,
+                        "timestamp": "2025-12-09T18:26:23",
+                        "sha256": "d450db42353e6783fb2756770055a6a82493a7c9784ccd59b37cc2e41335b7a4"
+                    },
+                    {
+                        "file": "shisa-v2.1-qwen3-8b.i1-IQ4_NL.gguf",
+                        "size": 4793624864,
+                        "timestamp": "2025-12-09T18:29:07",
+                        "sha256": "e369770bcd02df2aca2fcab7756dadc07de77d1670faada748a0580166314991"
+                    },
+                    {
+                        "file": "shisa-v2.1-qwen3-8b.i1-IQ4_XS.gguf",
+                        "size": 4561840416,
+                        "timestamp": "2025-12-09T18:32:59",
+                        "sha256": "b8de957aefde9eb7cff13b6f234842259b104b553b23b9f663b13993979274c3"
+                    },
+                    {
+                        "file": "shisa-v2.1-qwen3-8b.i1-Q2_K.gguf",
+                        "size": 3281733920,
+                        "timestamp": "2025-12-09T18:19:04",
+                        "sha256": "89504fdeef76e8f10129fae281aaea31abb470ca553d586dd6ba7f37f6bd9c7d"
+                    },
+                    {
+                        "file": "shisa-v2.1-qwen3-8b.i1-Q2_K_S.gguf",
+                        "size": 3083553056,
+                        "timestamp": "2025-12-09T18:31:17",
+                        "sha256": "6ee0f889bf3ad5a11581fcf3bf6ab72f378f765b488f03296adc49c61c1f1cbe"
+                    },
+                    {
+                        "file": "shisa-v2.1-qwen3-8b.i1-Q3_K_L.gguf",
+                        "size": 4431395104,
+                        "timestamp": "2025-12-09T18:37:59",
+                        "sha256": "c1c9431e33da66aac7743149f77aa547bc94ba62ec3d8214e6dbbb637612dcf3"
+                    },
+                    {
+                        "file": "shisa-v2.1-qwen3-8b.i1-Q3_K_M.gguf",
+                        "size": 4124162336,
+                        "timestamp": "2025-12-09T18:25:21",
+                        "sha256": "4fa489a00a36656e759064cd387f2a9cee5ce171e683b26204ea4268627cbce6"
+                    },
+                    {
+                        "file": "shisa-v2.1-qwen3-8b.i1-Q3_K_S.gguf",
+                        "size": 3769612576,
+                        "timestamp": "2025-12-09T18:34:38",
+                        "sha256": "93580d30eeb0021de5cf05bd77885ea1062f4d768a7733d03c4ad43f8ae914c9"
+                    },
+                    {
+                        "file": "shisa-v2.1-qwen3-8b.i1-Q4_0.gguf",
+                        "size": 4787333408,
+                        "timestamp": "2025-12-09T18:49:59",
+                        "sha256": "79f531218eaa4f3f483fc9a10c5d3c8e6d705991fcc07e09219cc771db3823ab"
+                    },
+                    {
+                        "file": "shisa-v2.1-qwen3-8b.i1-Q4_1.gguf",
+                        "size": 5247756576,
+                        "timestamp": "2025-12-09T18:53:10",
+                        "sha256": "8439275cfd1d04e4571a3fd581854002945207dcde0697cf13bddcd996145103"
+                    },
+                    {
+                        "file": "shisa-v2.1-qwen3-8b.i1-Q4_K_M.gguf",
+                        "size": 5027784992,
+                        "timestamp": "2025-12-09T18:26:42",
+                        "sha256": "5d60943a524c3e583f038a5dcab332755554e74f74bf2f521dc06e4d81152d23"
+                    },
+                    {
+                        "file": "shisa-v2.1-qwen3-8b.i1-Q4_K_S.gguf",
+                        "size": 4802013472,
+                        "timestamp": "2025-12-09T18:23:33",
+                        "sha256": "18022744e9cfb97b246de49dd7005759522bbd45b044addd0e9b52a8435efb47"
+                    },
+                    {
+                        "file": "shisa-v2.1-qwen3-8b.i1-Q5_K_M.gguf",
+                        "size": 5851113760,
+                        "timestamp": "2025-12-09T18:48:18",
+                        "sha256": "e292ac44af08a3ec9205efda260d366be4b14ef99b18f7d311b97c03038bdb41"
+                    },
+                    {
+                        "file": "shisa-v2.1-qwen3-8b.i1-Q5_K_S.gguf",
+                        "size": 5720762656,
+                        "timestamp": "2025-12-09T18:43:18",
+                        "sha256": "950a822142ebdacda22a2b908f1e00264c0611a8653582993d632aca747ef28c"
+                    },
+                    {
+                        "file": "shisa-v2.1-qwen3-8b.i1-Q6_K.gguf",
+                        "size": 6725900576,
+                        "timestamp": "2025-12-09T18:32:51",
+                        "sha256": "4b4e501c0b181c3cfcaa4fd978b4df012c4f4163fcaeb6dee7ae789539eabba1"
+                    },
+                    {
+                        "file": "shisa-v2.1-qwen3-8b.imatrix.gguf",
+                        "size": 5347200,
+                        "timestamp": "2025-12-09T18:12:01",
+                        "sha256": "273657ff986e6aa2a0601e5b7a902b672d23d8b1b8bfeb39c7daa3ce9bf67ce3"
+                    }
+                ]
+            },
+            {
+                "account": "mradermacher",
+                "repo": "shisa-v2-mistral-nemo-12b-GGUF",
+                "models": [
+                    {
+                        "file": "shisa-v2-mistral-nemo-12b.IQ4_XS.gguf",
+                        "size": 6800058112,
+                        "timestamp": "2025-04-14T20:41:10",
+                        "sha256": "ba8b30c584a185332a76fa75c7d63054d2a7779328bb59da1794d32ef1ed15a7"
+                    },
+                    {
+                        "file": "shisa-v2-mistral-nemo-12b.Q2_K.gguf",
+                        "size": 4791052032,
+                        "timestamp": "2025-04-14T20:35:15",
+                        "sha256": "cd76eeb99ae8757f091e2f350347070193ff8293aa4c5aa709070ef570d3fb71"
+                    },
+                    {
+                        "file": "shisa-v2-mistral-nemo-12b.Q3_K_L.gguf",
+                        "size": 6561507072,
+                        "timestamp": "2025-04-14T20:37:35",
+                        "sha256": "32323e1bab274f02ee8a9a459c1cabade58934891f0afa38b9a9f60b0be2e3db"
+                    },
+                    {
+                        "file": "shisa-v2-mistral-nemo-12b.Q3_K_M.gguf",
+                        "size": 6083094272,
+                        "timestamp": "2025-04-14T20:36:44",
+                        "sha256": "4da7e221b2a9500c9c03667e22c15625f504e2affd59dcd923e94ceb57b02302"
+                    },
+                    {
+                        "file": "shisa-v2-mistral-nemo-12b.Q3_K_S.gguf",
+                        "size": 5534230272,
+                        "timestamp": "2025-04-14T20:36:39",
+                        "sha256": "bb7b81b6a9d04f8f0d1ca25465ec3227e6fccdc34c5557995afd68b5c82b8a55"
+                    },
+                    {
+                        "file": "shisa-v2-mistral-nemo-12b.Q4_K_M.gguf",
+                        "size": 7477208832,
+                        "timestamp": "2025-04-14T20:38:31",
+                        "sha256": "62986c42a49e2d0073c2ed33e265f39ae3d489244b8c80eac3bbbeb141934756"
+                    },
+                    {
+                        "file": "shisa-v2-mistral-nemo-12b.Q4_K_S.gguf",
+                        "size": 7120201472,
+                        "timestamp": "2025-04-14T20:36:23",
+                        "sha256": "5569737ba271ec5004906f65d1372d887e65e17a14e46858e02622137742fa33"
+                    },
+                    {
+                        "file": "shisa-v2-mistral-nemo-12b.Q5_K_M.gguf",
+                        "size": 8727635712,
+                        "timestamp": "2025-04-14T20:40:33",
+                        "sha256": "cc33a8bf673436dc7fc20705cef3c470ad26ac68d8ae66a3d57c1763f3b57531"
+                    },
+                    {
+                        "file": "shisa-v2-mistral-nemo-12b.Q5_K_S.gguf",
+                        "size": 8518739712,
+                        "timestamp": "2025-04-14T20:39:26",
+                        "sha256": "6695d75e9f0c4bae0a2d60f83dd794df77d163feb2ce499513152b11a5d34e41"
+                    },
+                    {
+                        "file": "shisa-v2-mistral-nemo-12b.Q6_K.gguf",
+                        "size": 10056214272,
+                        "timestamp": "2025-04-14T20:38:37",
+                        "sha256": "1bdf6aa0d292967116b9c6e1e181fe12f2b19b978baeee3f0fe34117b1ade7bd"
+                    },
+                    {
+                        "file": "shisa-v2-mistral-nemo-12b.Q8_0.gguf",
+                        "size": 13022373632,
+                        "timestamp": "2025-04-14T20:39:47",
+                        "sha256": "1a48e23599f10fa79cb929ddff389662d2db464a547d18444552696882110fcb"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "series": "TranslateGemma",
+        "account": "google",
+        "repos": [
+            {
+                "account": "bullerwins",
+                "repo": "translategemma-4b-it-GGUF",
+                "models": [
+                    {
+                        "file": "translategemma-4b-it-Q3_K_L.gguf",
+                        "size": 2236100672,
+                        "timestamp": "2026-01-15T18:34:38",
+                        "sha256": "6e7af6bbb541a5d0fd57b40eff93a728084ec9ebb621c08826d1877dc39934d9"
+                    },
+                    {
+                        "file": "translategemma-4b-it-Q4_K_M.gguf",
+                        "size": 2489909312,
+                        "timestamp": "2026-01-15T18:34:38",
+                        "sha256": "a1db9212fbef2d3ce43f4752eeb0f8eb86a911999e1cc11419eb5ffde6e72f67"
+                    },
+                    {
+                        "file": "translategemma-4b-it-Q4_K_S.gguf",
+                        "size": 2377945152,
+                        "timestamp": "2026-01-15T18:34:38",
+                        "sha256": "61507c50f214615a2ed3ca6e596524b1dfefd7096bb2e7c862bcbbf1d9331363"
+                    },
+                    {
+                        "file": "translategemma-4b-it-Q5_K_M.gguf",
+                        "size": 2829713472,
+                        "timestamp": "2026-01-15T18:34:38",
+                        "sha256": "bde765ba3ec4994b95ec0d8e7b9c9bcdc615631eb1601492b799c98d49f4c03d"
+                    },
+                    {
+                        "file": "translategemma-4b-it-Q5_K_S.gguf",
+                        "size": 2764607552,
+                        "timestamp": "2026-01-15T18:34:38",
+                        "sha256": "4548c74d90dfc114da844448c9791dd42f85584c9b4e299d6fa4eeb184762acd"
+                    },
+                    {
+                        "file": "translategemma-4b-it-Q6_K.gguf",
+                        "size": 3190755392,
+                        "timestamp": "2026-01-15T18:34:38",
+                        "sha256": "aed98efac9f602cf31f97a78514bd8b78a7ddabb8baf6132e09c21ac1523c760"
+                    },
+                    {
+                        "file": "translategemma-4b-it-Q8_0.gguf",
+                        "size": 4130417472,
+                        "timestamp": "2026-01-15T18:34:38",
+                        "sha256": "0d3232caefd0961adcdd95ec6a2d18f6d41b948fe089f349c3d2c43b51568984"
+                    }
+                ]
+            },
+            {
+                "account": "bullerwins",
+                "repo": "translategemma-12b-it-GGUF",
+                "models": [
+                    {
+                        "file": "translategemma-12b-it-Q3_K_L.gguf",
+                        "size": 6480201024,
+                        "timestamp": "2026-01-15T18:34:23",
+                        "sha256": "5d06bb59f8b24be3414617fbd93f5504fd9d1b38a514ec95ff8f0e844db3fe44"
+                    },
+                    {
+                        "file": "translategemma-12b-it-Q4_K_M.gguf",
+                        "size": 7300793664,
+                        "timestamp": "2026-01-15T18:34:23",
+                        "sha256": "2dd3812900441cc20f5880984698418c76f55b8803d3482ed46f2a6f0f6f1c25"
+                    },
+                    {
+                        "file": "translategemma-12b-it-Q4_K_S.gguf",
+                        "size": 6935348544,
+                        "timestamp": "2026-01-15T18:34:23",
+                        "sha256": "7e0457eda6dbe8fc66efa7515a5e629c1b3a32b2447ddcdb17f891ca220fff39"
+                    },
+                    {
+                        "file": "translategemma-12b-it-Q5_K_M.gguf",
+                        "size": 8445052224,
+                        "timestamp": "2026-01-15T18:34:23",
+                        "sha256": "960fcc01c5006f19fada5e9ae898d2ec75ccc3040a27400f30a4af969425bad5"
+                    },
+                    {
+                        "file": "translategemma-12b-it-Q5_K_S.gguf",
+                        "size": 8231978304,
+                        "timestamp": "2026-01-15T18:34:23",
+                        "sha256": "6541da89e6489a7fdad4c65bdda462322e90b9df3511c1d35eeb8f71183b36f5"
+                    },
+                    {
+                        "file": "translategemma-12b-it-Q6_K.gguf",
+                        "size": 9660826944,
+                        "timestamp": "2026-01-15T18:34:23",
+                        "sha256": "91db687ca1e06d0fd5bc89ace163d36fe9fc2cabee7603ca1da775d9edd4d8d5"
+                    },
+                    {
+                        "file": "translategemma-12b-it-Q8_0.gguf",
+                        "size": 12510227904,
+                        "timestamp": "2026-01-15T18:34:23",
+                        "sha256": "4a81fd2c1bd79cfc253d8905ee44eb22a0a006bc07e2b017281b328a2c7869cd"
+                    }
+                ]
+            },
+            {
+                "account": "bullerwins",
+                "repo": "translategemma-27b-it-GGUF",
+                "models": [
+                    {
+                        "file": "translategemma-27b-it-Q3_K_L.gguf",
+                        "size": 14543477408,
+                        "timestamp": "2026-01-15T18:42:44",
+                        "sha256": "c45e1ff20a2759b5dae622763dffd03fd55ce02ef7c089c4624a921bbc1f3fc9"
+                    },
+                    {
+                        "file": "translategemma-27b-it-Q4_K_M.gguf",
+                        "size": 16546704032,
+                        "timestamp": "2026-01-15T18:42:44",
+                        "sha256": "f9e58a8c649ca3cb6cc12781f15049b9668914f2d33dd2245186a9408c6e611d"
+                    },
+                    {
+                        "file": "translategemma-27b-it-Q4_K_S.gguf",
+                        "size": 15674071712,
+                        "timestamp": "2026-01-15T18:42:44",
+                        "sha256": "28456eeee204d0023234dd855af5713eced95516f93c0d3d7be9af0049c0194a"
+                    },
+                    {
+                        "file": "translategemma-27b-it-Q5_K_M.gguf",
+                        "size": 19271690912,
+                        "timestamp": "2026-01-15T18:21:48",
+                        "sha256": "0305dbd12fd38e392626a428d9828d607daf974fdf6d975ffef1c9b416f26005"
+                    },
+                    {
+                        "file": "translategemma-27b-it-Q5_K_S.gguf",
+                        "size": 18767207072,
+                        "timestamp": "2026-01-15T18:42:44",
+                        "sha256": "349e5b6650571d2601eb68533357e94e5f1c71680c91bfe8ae0914beb84fa863"
+                    },
+                    {
+                        "file": "translategemma-27b-it-Q6_K.gguf",
+                        "size": 22166989472,
+                        "timestamp": "2026-01-15T18:21:48",
+                        "sha256": "4bc2b581ac94bb65eec310f824793ae5355ec3a81a024ff0aceba7b5c48add46"
+                    },
+                    {
+                        "file": "translategemma-27b-it-Q8_0.gguf",
+                        "size": 28707987488,
+                        "timestamp": "2026-01-15T18:21:48",
+                        "sha256": "302fd58859bee5d2254c48706d69f46d92634812bddd89b780f6fc50e4300536"
+                    }
+                ]
+            }
+        ]
+    }
+]
